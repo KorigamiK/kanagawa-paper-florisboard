@@ -1,6 +1,6 @@
 Iosevka Paper — a custom build of Iosevka (https://font.korigamik.dev, https://github.com/KorigamiK/Iosevka-Paper).
 Copyright 2015-2026, Renzhi Li (aka. Belleve Invis, belleve@typeof.net).
-The files in this directory are subsets (Latin, Greek, Cyrillic and common symbols) of the upstream TTFs.
+The files in this directory are Latin-only subsets (plus punctuation and common symbols) of the upstream Regular and Bold TTFs.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
