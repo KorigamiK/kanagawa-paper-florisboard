@@ -1,0 +1,75 @@
+{
+  "$": "ime.extension.theme",
+  "meta": {
+    "id": "io.github.korigamik.kanagawa_paper",
+    "version": "1.0.0",
+    "title": "Kanagawa Paper",
+    "description": "Kanagawa Paper: Wave, Dragon and Lotus themes set in Iosevka Paper",
+    "keywords": [
+      "kanagawa",
+      "paper",
+      "wave",
+      "dragon",
+      "lotus",
+      "dark",
+      "light",
+      "iosevka"
+    ],
+    "homepage": "https://github.com/KorigamiK/kanagawa-paper-florisboard",
+    "issueTracker": "https://github.com/KorigamiK/kanagawa-paper-florisboard/issues",
+    "maintainers": [
+      "KorigamiK"
+    ],
+    "license": "MIT"
+  },
+  "themes": [
+    {
+      "id": "kanagawa_paper_wave",
+      "label": "Kanagawa Paper Wave",
+      "authors": [
+        "KorigamiK"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "kanagawa_paper_wave_borderless",
+      "label": "Kanagawa Paper Wave (Borderless)",
+      "authors": [
+        "KorigamiK"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "kanagawa_paper_dragon",
+      "label": "Kanagawa Paper Dragon",
+      "authors": [
+        "KorigamiK"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "kanagawa_paper_dragon_borderless",
+      "label": "Kanagawa Paper Dragon (Borderless)",
+      "authors": [
+        "KorigamiK"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "kanagawa_paper_lotus",
+      "label": "Kanagawa Paper Lotus",
+      "authors": [
+        "KorigamiK"
+      ],
+      "isNight": false
+    },
+    {
+      "id": "kanagawa_paper_lotus_borderless",
+      "label": "Kanagawa Paper Lotus (Borderless)",
+      "authors": [
+        "KorigamiK"
+      ],
+      "isNight": false
+    }
+  ]
+}
