@@ -25,12 +25,12 @@
   },
   "@font `Iosevka Paper`": [
     {
-      "src": "uri(`flex:/fonts/IosevkaPaper-Regular.ttf`)",
+      "src": "uri(`flex:/fonts/IosevkaPaper-Extended.ttf`)",
       "font-weight": "400",
       "font-style": "normal"
     },
     {
-      "src": "uri(`flex:/fonts/IosevkaPaper-Bold.ttf`)",
+      "src": "uri(`flex:/fonts/IosevkaPaper-ExtendedBold.ttf`)",
       "font-weight": "700",
       "font-style": "normal"
     }

@@ -31,7 +31,7 @@ Needs `python3` and `zip`. The build minifies the JSON and zips the
 
 ## Fonts
 
-`fonts/` contains Iosevka Paper Regular and Bold,
+`fonts/` contains Iosevka Paper Extended (Regular and Bold),
 subset to Latin, punctuation and common symbols to keep the extension
 small (other scripts fall back to the system font). Iosevka Paper is licensed under the SIL Open Font License 1.1
 (see `fonts/OFL.txt`).

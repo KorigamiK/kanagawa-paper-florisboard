@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Switch to the Extended width of Iosevka Paper (Regular and Bold).
+
 ## 1.0.1
 
 - Bundle only Iosevka Paper Regular and Bold, subset to Latin, so the extension fits the Addons Store's 512 KB limit. Other scripts fall back to the system font.
